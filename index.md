@@ -8,7 +8,7 @@ My name is Artem betley. I just graduted from the **[Moscow Institute of Physics
 
 I aspire to become a researcher working in Data Science. My areas of interest are Deep Learning, Machine Learning, Optimization and Natural Language Processing. My work so far was mostly on application of Machine Learning Approaches for problems on NLP, specifically for Marital Status Prediction in Social Networks. I have briefly worked on the problem of Customer Churn prediction in Mobile Banking. 
 
-I blog about curious things I encounter while reading books or while on the internet. These are things mostly related to the topics mentioned above and some mathematics as well.
+I blog about curious things I encounter while reading books or while on the internet. These are things mostly related to the topics mentioned above.
 
 ### Contact me
 
