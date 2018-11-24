@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-## Hi there!
+<!--- ## Hi there! --->
 My name is Artem, currently I am CIFRE PhD student at **[Criteo AI lab](http://ailab.criteo.com)** and **[AMA LIG research team](http://ama.liglab.fr)**. I got a master’s degrees of Industrial and Applied Mathematics from the **[Universite Grenoble Alpes](https://msiam.imag.fr/)** and of Applied Physics and Mathematics from the **[Moscow Institute of Physics and Technology](http://www.mipt.ru/)**.
 
 <!--- I just graduted from the **[Moscow Institute of Physics and Technology](http://www.mipt.ru/)** with a **Bachelor's degree in [System Programming](http://www.ispras.ru/en/groups/modis/)**. I work as a **marketer and data analyst at [Rocketbank](https://www.rocketbank.ru/)** and do **research at [Institute for System Programming of the Russian Academy of Sciences](http://ispras.ru/en/)**. ---> 
